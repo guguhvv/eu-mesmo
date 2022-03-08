@@ -30,6 +30,18 @@ h1{
 	text-align: center;
 }
 
+h2{
+  height: 30px;
+  width: 976px;
+  margin: 10 auto;
+  margin-top: 35px;
+  background: black;
+  color:white;
+  
+  text-align : center;
+  
+}
+
 p{
 font:12pt arial;
 
